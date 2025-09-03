@@ -11,6 +11,8 @@
       "countryCode": "-",
       "region": "-"
     },
+    "url": "",
+    "summary": "",
     "profiles": [
       {
         "network": "",
@@ -22,10 +24,19 @@
   "work": [
     {
       "name": "Eindhoven University of Technology",
-      "position": "Postdoctoral Researcher",
+      "position": "Postdoctoral researcher",
       "url": "",
       "startDate": "2025",
       "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "Eindhoven University of Technology",
+      "position": "Doctoral researcher",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "2025",
       "summary": "",
       "highlights": [""]
     }
