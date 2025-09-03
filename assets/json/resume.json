@@ -74,7 +74,7 @@
   "education": [
     {
       "institution": "Eindhoven University of Technology",
-      "location": "Eindhoven, The Netherlands",
+      "location": "Eindhoven",
       "url": "https://www.tue.nl/en/",
       "area": "Soft Condensed Matter Physics",
       "studyType": "PhD",
@@ -85,7 +85,7 @@
     },
     {
       "institution": "Eindhoven University of Technology",
-      "location": "Eindhoven, Netherlands",
+      "location": "Eindhoven",
       "url": "https://www.tue.nl/en/",
       "area": "Chemical Engineering",
       "studyType": "BSc & MSc",
@@ -106,9 +106,9 @@
     {
       "title": "Sixma Organic Chemistry Prize",
       "date": "2017",
-      "awarder": "capacity group Macromolecular and Organic Chemistry (TU Eindhoven)",
+      "awarder": "capacity group Macromolecular and Organic Chemistry (TU/e)",
       "url": "",
-      "summary": "Awarded for top performance in organic chemistry courses, Bachelor Program, TU Eindhoven."
+      "summary": "Awarded for top performance in organic chemistry courses in the BSc program at TU/e."
     },
     {
       "title": "KHMW Incentive Award (discipline: Chemical Engineering)",
