@@ -34,40 +34,33 @@
     },
     {
       "name": "Eindhoven University of Technology",
+      "location": "Eindhoven",
       "position": "Doctoral Researcher",
       "url": "https://www.tue.nl/en/",
       "startDate": "2021",
       "endDate": "2025",
-      "summary": "",
+      "summary": "In this experimental project, I designed and developed colloidal systems to use as convenient model systems for studying crystallization and crystal defect formation. 
+      The project involved confocal microscopy (CLSM), electron microscopy (SEM/TEM), image analysis (with Python), light scattering measurements (SLS/DLS), and colloidal particle synthesis and characterization.
+      [Link to my PhD thesis.](https://www.tue.nl/en/)",
       "highlights": ""
     },
     {
       "name": "Grodan (ROCKWOOL B.V.)",
+      "location": "Roermond",
       "position": "Intern",
       "url": "https://www.grodan.com/global/",
       "startDate": "2020",
       "endDate": "2020",
-      "summary": "",
+      "summary": "Research project on the characterization of the wetting properties of fibrous stone wool substrates that are used for cultivation.",
       "highlights": ""
     },
     {
       "name": "EuFlex Technificent (TU/e)",
-      "position": "Student Tutor",
+      "location": "Eindhoven",
+      "position": "Teaching Assistant",
       "url": "",
       "startDate": "2018",
       "endDate": "2019",
-      "summary": "",
-      "highlights": ""
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
       "summary": "",
       "highlights": ""
     }
@@ -117,87 +110,6 @@
       "awarder": "Royal Holland Society of Sciences and Humanities",
       "url": "https://khmw.nl/",
       "summary": "Award for excellent performance in the first year of university for natural science study programs in the Netherlands."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    }
-  ],
-  "publications": [
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
-  "skills": [
-    {
-      "name": "",
-      "level": "",
-      "icon": "",
-      "keywords": ""
-    }
-  ],
-  "languages": [
-    {
-      "language": "Dutch",
-      "fluency": "Native",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "",
-      "icon": "",
-      "keywords": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    },
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "",
-      "summary": "",
-      "highlights": "",
-      "startDate": "",
-      "endDate": "",
-      "url": ""
     }
   ]
 }
