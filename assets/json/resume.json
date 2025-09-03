@@ -24,6 +24,7 @@
   "work": [
     {
       "name": "Eindhoven University of Technology",
+      "location": "Eindhoven",
       "position": "Postdoctoral Researcher",
       "url": "https://www.tue.nl/en/",
       "startDate": "2025",
@@ -50,7 +51,7 @@
       "highlights": ""
     },
     {
-      "name": "EuFlex Technificent (TU Eindhoven)",
+      "name": "EuFlex Technificent (TU/e)",
       "position": "Student Tutor",
       "url": "",
       "startDate": "2018",
