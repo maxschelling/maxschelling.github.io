@@ -265,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Schelling]
-  first_name: [Max, M., M. P. M., M.P.M., Max P. M., M, M P M, MPM, Max P M]
+  last_name: [Schelling, M Schelling]
+  first_name: [Max, M., M. P. M., M.P.M., Max P. M., M, M P M, MPM, Max P M, M P]
 
   style: apa
   locale: en
